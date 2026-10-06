@@ -1,0 +1,101 @@
+vehicle_id,registration_number,vehicle_type,manufacturer,fuel_type,capacity_kg,status
+V0001,KA01AB0001,Truck,Tata,CNG,5006,Active
+V0002,KA01AB0002,Van,Ashok Leyland,CNG,2179,Active
+V0003,KA01AB0003,Tanker,Tata,Diesel,2035,Active
+V0004,KA01AB0004,Van,Tata,CNG,3757,Inactive
+V0005,KA01AB0005,Van,Eicher,CNG,5057,Active
+V0006,KA01AB0006,Van,Eicher,Petrol,5052,Active
+V0007,KA01AB0007,Van,Mahindra,Diesel,2019,Inactive
+V0008,KA01AB0008,Truck,Mahindra,Petrol,4833,Active
+V0009,KA01AB0009,Tanker,Tata,Petrol,1791,Active
+V0010,KA01AB0010,Mini Truck,Ashok Leyland,CNG,1639,Active
+V0011,KA01AB0011,Van,Mahindra,Diesel,4314,Active
+V0012,KA01AB0012,Tanker,Mahindra,Petrol,6477,Active
+V0013,KA01AB0013,Mini Truck,Mahindra,Diesel,4874,Active
+V0014,KA01AB0014,Van,Ashok Leyland,Diesel,8073,Inactive
+V0015,KA01AB0015,Mini Truck,Ashok Leyland,CNG,5813,Active
+V0016,KA01AB0016,Van,Tata,Petrol,7072,Active
+V0017,KA01AB0017,Truck,Ashok Leyland,CNG,5655,Active
+V0018,KA01AB0018,Tanker,Eicher,CNG,8017,Active
+V0019,KA01AB0019,Mini Truck,Ashok Leyland,Diesel,9697,Active
+V0020,KA01AB0020,Tanker,Eicher,Petrol,4093,Active
+V0021,KA01AB0021,Tanker,Tata,Diesel,2296,Active
+V0022,KA01AB0022,Van,Eicher,CNG,1540,Inactive
+V0023,KA01AB0023,Tanker,Eicher,CNG,4619,Active
+V0024,KA01AB0024,Truck,Mahindra,CNG,6073,Active
+V0025,KA01AB0025,Mini Truck,Eicher,Diesel,7933,Active
+V0026,KA01AB0026,Mini Truck,Ashok Leyland,CNG,2243,Active
+V0027,KA01AB0027,Van,Ashok Leyland,Petrol,3146,Active
+V0028,KA01AB0028,Mini Truck,Eicher,Diesel,2332,Active
+V0029,KA01AB0029,Mini Truck,Ashok Leyland,Diesel,4446,Active
+V0030,KA01AB0030,Truck,Eicher,Diesel,9227,Active
+V0031,KA01AB0031,Van,Eicher,CNG,3205,Active
+V0032,KA01AB0032,Tanker,Ashok Leyland,CNG,3795,Active
+V0033,KA01AB0033,Tanker,Mahindra,Petrol,8979,Inactive
+V0034,KA01AB0034,Truck,Ashok Leyland,Diesel,1549,Active
+V0035,KA01AB0035,Truck,Ashok Leyland,CNG,4108,Active
+V0036,KA01AB0036,Truck,Tata,Diesel,1604,Active
+V0037,KA01AB0037,Mini Truck,Tata,CNG,4399,Active
+V0038,KA01AB0038,Tanker,Ashok Leyland,CNG,2667,Inactive
+V0039,KA01AB0039,Van,Eicher,Petrol,3619,Active
+V0040,KA01AB0040,Truck,Eicher,Petrol,7439,Inactive
+V0041,KA01AB0041,Tanker,Tata,CNG,2112,Active
+V0042,KA01AB0042,Tanker,Mahindra,Diesel,4573,Active
+V0043,KA01AB0043,Van,Eicher,Diesel,7412,Active
+V0044,KA01AB0044,Mini Truck,Eicher,Diesel,1735,Inactive
+V0045,KA01AB0045,Truck,Tata,CNG,9356,Active
+V0046,KA01AB0046,Truck,Ashok Leyland,Diesel,7158,Inactive
+V0047,KA01AB0047,Tanker,Ashok Leyland,Petrol,1460,Active
+V0048,KA01AB0048,Tanker,Tata,Petrol,4845,Inactive
+V0049,KA01AB0049,Mini Truck,Eicher,CNG,9605,Inactive
+V0050,KA01AB0050,Van,Ashok Leyland,Petrol,4066,Active
+V0051,KA01AB0051,Truck,Mahindra,Diesel,1321,Inactive
+V0052,KA01AB0052,Van,Tata,CNG,1812,Active
+V0053,KA01AB0053,Truck,Tata,CNG,4353,Inactive
+V0054,KA01AB0054,Truck,Ashok Leyland,CNG,1151,Active
+V0055,KA01AB0055,Tanker,Mahindra,Petrol,3846,Active
+V0056,KA01AB0056,Van,Mahindra,Petrol,2644,Active
+V0057,KA01AB0057,Tanker,Mahindra,Diesel,652,Inactive
+V0058,KA01AB0058,Truck,Tata,CNG,3992,Active
+V0059,KA01AB0059,Van,Mahindra,Diesel,4502,Active
+V0060,KA01AB0060,Mini Truck,Ashok Leyland,Petrol,9400,Active
+V0061,KA01AB0061,Truck,Mahindra,CNG,2197,Active
+V0062,KA01AB0062,Mini Truck,Tata,Diesel,9564,Active
+V0063,KA01AB0063,Mini Truck,Mahindra,CNG,3950,Active
+V0064,KA01AB0064,Van,Mahindra,CNG,8504,Active
+V0065,KA01AB0065,Truck,Tata,CNG,7439,Active
+V0066,KA01AB0066,Truck,Tata,Petrol,2643,Active
+V0067,KA01AB0067,Van,Eicher,CNG,7507,Active
+V0068,KA01AB0068,Truck,Tata,CNG,2942,Active
+V0069,KA01AB0069,Mini Truck,Ashok Leyland,Petrol,2588,Active
+V0070,KA01AB0070,Mini Truck,Mahindra,Diesel,6362,Active
+V0071,KA01AB0071,Van,Tata,Petrol,9673,Inactive
+V0072,KA01AB0072,Van,Ashok Leyland,Diesel,3400,Inactive
+V0073,KA01AB0073,Truck,Ashok Leyland,CNG,5942,Inactive
+V0074,KA01AB0074,Van,Mahindra,Diesel,2271,Inactive
+V0075,KA01AB0075,Truck,Eicher,Diesel,3769,Inactive
+V0076,KA01AB0076,Mini Truck,Mahindra,Diesel,4152,Active
+V0077,KA01AB0077,Van,Eicher,Petrol,5064,Active
+V0078,KA01AB0078,Mini Truck,Mahindra,CNG,8846,Inactive
+V0079,KA01AB0079,Mini Truck,Tata,Diesel,4779,Active
+V0080,KA01AB0080,Mini Truck,Tata,Diesel,7619,Active
+V0081,KA01AB0081,Mini Truck,Eicher,CNG,8879,Active
+V0082,KA01AB0082,Tanker,Ashok Leyland,Petrol,1227,Inactive
+V0083,KA01AB0083,Truck,Ashok Leyland,Petrol,7566,Active
+V0084,KA01AB0084,Mini Truck,Mahindra,CNG,2541,Active
+V0085,KA01AB0085,Mini Truck,Eicher,Petrol,7092,Active
+V0086,KA01AB0086,Van,Ashok Leyland,Petrol,6711,Active
+V0087,KA01AB0087,Mini Truck,Eicher,CNG,506,Active
+V0088,KA01AB0088,Mini Truck,Ashok Leyland,Petrol,5779,Inactive
+V0089,KA01AB0089,Tanker,Eicher,CNG,4001,Inactive
+V0090,KA01AB0090,Van,Tata,Petrol,8945,Active
+V0091,KA01AB0091,Truck,Ashok Leyland,CNG,5585,Active
+V0092,KA01AB0092,Van,Ashok Leyland,Diesel,1257,Active
+V0093,KA01AB0093,Tanker,Tata,Petrol,7290,Active
+V0094,KA01AB0094,Tanker,Eicher,Petrol,4497,Active
+V0095,KA01AB0095,Truck,Tata,Petrol,4085,Active
+V0096,KA01AB0096,Tanker,Tata,CNG,4582,Active
+V0097,KA01AB0097,Tanker,Ashok Leyland,Petrol,9202,Active
+V0098,KA01AB0098,Tanker,Eicher,CNG,7805,Active
+V0099,KA01AB0099,Tanker,Eicher,Petrol,4550,Active
+V0100,KA01AB0100,Tanker,Ashok Leyland,Petrol,7706,Active
