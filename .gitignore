@@ -50,3 +50,5 @@ ml/models/*.pkl
 # Logs
 logs/
 *.log
+
+fleetvision-360-before-cleanup.bundle
