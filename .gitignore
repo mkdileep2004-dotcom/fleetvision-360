@@ -31,3 +31,22 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large generated GPS datasets
+data/raw/gps_events.csv
+data/bronze/gps_events.csv
+data/silver/gps_events.csv
+data/processed/gps_events.csv
+
+# Trained ML model files
+ml/models/*.pkl
+
+# Logs
+logs/
+*.log
